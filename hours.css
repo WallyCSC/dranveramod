@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(212, 236, 228);
+    background-image: linear-gradient(to left, rgb(88, 177, 147) , white);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background-color: rgb(40, 64, 56);
+    font-size: 15px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 0px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover{
+    background-color: rgb(79, 138, 118);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
